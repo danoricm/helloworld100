@@ -1,0 +1,1 @@
+(write-line "Hello World Welcome to W3schools.")
