@@ -1,4 +1,1 @@
-[indent=4]
-
-init
-    print "Hello, world!"
+print("Hello, World!")
